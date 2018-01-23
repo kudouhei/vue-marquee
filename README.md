@@ -4,7 +4,7 @@
 
 vue实现轮播信息公告组件。支持文字水平，垂直滚动方向配置和滚动间隔动画配置。  
 
-#build Setup   
+# build Setup   
 
 ```
 npm install 
@@ -22,6 +22,6 @@ npm run build
 | direction  | 轮播方向 | String(up/down) 
 | modelv            | 文字滚动水平or垂直模式                                                  | horizontal(vertical)  
 
-#Demo  
+# Demo  
 [Demo](https://kudouhei.github.io/vue-marquee/)  
 
